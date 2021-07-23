@@ -8,8 +8,6 @@ public enum TokenType {
 	OP_MUL, // '*'
 	OP_DIV, // '/'
 	OP_REM, // '%'
-	OP_FACT, // '!'
-	OP_POW, // '^'
 	NUMBER, // double
 	END
 }
