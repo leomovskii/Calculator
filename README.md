@@ -1,7 +1,4 @@
-# Calculator
-Line calculator.
-
-## Text Java Calculator
+# Text Java Calculator
 Simple calculator in Java. Evaluating an arithmetic expression from a string using the recursive descent method.
 
 Supporting operators:
