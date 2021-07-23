@@ -14,7 +14,7 @@ ToDo:
 * add power '^' support
 * add absolute value '|'..'|' support
 
-## Thank You!
+### Thank You!
 Star repo and share it with others if you want.
 
 ### Requirements
